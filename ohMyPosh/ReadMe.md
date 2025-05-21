@@ -1,5 +1,5 @@
 # Download JSON file in posh themes directory.
-## Open terminal:
+## Open terminal and type:
 ```bash
 nano ~/.config/fish/config.fish
 ```
