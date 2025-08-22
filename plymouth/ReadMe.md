@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 ---
-<img width="498" height="398" alt="image" src="" />
+<img width="498" height="398" alt="image" src="plymouth/rick.gif" />
 <!-- Yeah it looks like that bitch --!>
 
 ## 📦 Installation
