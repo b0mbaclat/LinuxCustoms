@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 ---
-<img width="498" height="398" alt="image" src="https://github.com/user-attachments/assets/c706bde3-e92d-4b55-afe1-ef22594c4d0c" />
+<img width="498" height="398" alt="image" src="" />
 <!-- Yeah it looks like that bitch --!>
 
 ## 📦 Installation
