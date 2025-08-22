@@ -3,7 +3,7 @@
 
 ## 📸 Preview
 ---
-<img width="498" height="398" alt="image" src="plymouth/rick.gif" />
+<img width="498" height="398" alt="image" src="https://github.com/b0mbaclat/LinuxCustoms/blob/03c44873c2e45b9b852d8632a256d63130928b0e/plymouth/rick.gif" />
 <!-- Yeah it looks like that bitch --!>
 
 ## 📦 Installation
