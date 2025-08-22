@@ -3,10 +3,7 @@
 
 ## 📸 Preview
 ---
-<div class="tenor-gif-embed" data-postid="19905507" data-share-method="host" data-aspect-ratio="1.25" data-width="100%">
-  <a href="https://tenor.com/view/rick-gif-19905507">Rick Sticker</a>from <a href="https://tenor.com/search/rick-stickers">Rick Stickers</a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="498" height="398" alt="image" src="https://github.com/user-attachments/assets/a17f501d-b4ec-463b-a7d4-d7770eb68403" />
 <!-- Yeah it looks like that bitch --!>
 
 ## 📦 Installation
