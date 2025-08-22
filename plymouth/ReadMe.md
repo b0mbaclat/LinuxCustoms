@@ -8,7 +8,7 @@
 
 ### 1. Clone this repo
 ```
-git clone https://github.com/your-username/rickroll-plymouth.git
+git clone https://github.com/b0mbaclat/rickroll-plymouth.git
 cd rickroll-plymouth
 ```
 
