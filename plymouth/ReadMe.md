@@ -5,9 +5,10 @@
 ---
 <img width="498" height="398" alt="image" src="https://github.com/b0mbaclat/LinuxCustoms/blob/03c44873c2e45b9b852d8632a256d63130928b0e/plymouth/rick.gif" />
 
+```
 cr-https://youtu.be/xvFZjo5PgG0?si=hi4BJ2kMHhelJrAm
 <!-- Yeah it looks like that bitch --!>
-
+```
 ## 📦 Installation
 
 ### 1. Clone this repo
