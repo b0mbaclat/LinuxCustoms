@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Rick Roll
+Description=Rick Roll Plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rick-roll
+ScriptFile=/usr/share/plymouth/themes/rick-roll/rick-roll.script
